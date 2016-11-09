@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="XAMPP local (1)">
+    <serverData>
+      <paths name="XAMPP local">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="XAMPP local (1)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="miriadax/mod_05/mejorada" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
